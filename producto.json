@@ -1,0 +1,29 @@
+{
+    "_id": "63a0c6a5b4b3f8a4c1e8a4a1",
+    "name": "Pizza Hawaiana",
+    "description": "La clásica y controversial pizza con jamón y piña.",
+    "category": "pizza",
+    "imageUrl": "https://example.com/images/hawaiana.jpg",
+    "sizes": [
+      {
+        "name": "Personal",
+        "price": 18000.00
+      },
+      {
+        "name": "Mediana",
+        "price": 32000.00
+      },
+      {
+        "name": "Familiar",
+        "price": 45000.00
+      }
+    ],
+    "baseIngredients": [
+      { "ingredientId": "63a0c5e1b4b3f8a4c1e8a49a", "name": "Masa delgada" },
+      { "ingredientId": "63a0c5e1b4b3f8a4c1e8a49b", "name": "Salsa de Tomate" },
+      { "ingredientId": "63a0c5e1b4b3f8a4c1e8a49c", "name": "Queso Mozzarella" },
+      { "ingredientId": "63a0c5e1b4b3f8a4c1e8a49d", "name": "Jamón" },
+      { "ingredientId": "63a0c5e1b4b3f8a4c1e8a49e", "name": "Piña" }
+    ],
+    "available": true
+  }
