@@ -1,0 +1,45 @@
+{
+    "_id": "63a0d3b3e8a4b3f8a4c1e8b1",
+    "orderNumber": "2025-00154",
+    "orderDate": "2025-08-16T20:30:00Z",
+    "type": "recoger", 
+    "status": "en_preparacion",
+  
+    "customerId": "63a0d1c8e8a4b3f8a4c1e8a9",
+    "customerSnapshot": {
+      "name": "Ana Gómez",
+      "phone": "3001234567"
+    },
+  
+    "items": [
+      {
+        "productId": "63a0c6a5b4b3f8a4c1e8a4a1",
+        "name": "Pizza Hawaiana",
+        "quantity": 1,
+        "size": "Mediana",
+        "unitPrice": 32000.00,
+        "additions": [
+          {
+            "name": "Borde de Queso",
+            "price": 5000.00
+          },
+          {
+            "name": "Extra Tocineta",
+            "price": 4000.00
+          }
+        ],
+        "subtotal": 41000.00
+      },
+      {
+        "productId": "63a0c7e2b4b3f8a4c1e8a4c1",
+        "name": "Coca-Cola",
+        "quantity": 2,
+        "size": "400ml",
+        "unitPrice": 3500.00,
+        "additions": [],
+        "subtotal": 7000.00
+      }
+    ],
+  
+    "totalAmount": 48000.00
+  }
