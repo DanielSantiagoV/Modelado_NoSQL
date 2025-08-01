@@ -3,7 +3,7 @@
     "name": "Pizza Hawaiana",
     "description": "La clásica y controversial pizza con jamón y piña.",
     "category": "pizza",
-    "imageUrl": "https://example.com/images/hawaiana.jpg",
+    "imageUrl": "https://pizza.com/images/hawaiana.jpg",
     "sizes": [
       {
         "name": "Personal",
