@@ -1,0 +1,24 @@
+{
+    "_id": "63a0c6a5b4b3f8a4c1e8a4b5",
+    "name": "Combo Amigos",
+    "description": "Una pizza mediana, 2 bebidas y un postre para compartir.",
+    "category": "combo",
+    "imageUrl": "https://example.com/images/combo_amigos.jpg",
+    "price": 55000.00,
+    "isCombo": true,
+    "comboItems": [
+      {
+        "productId": "63a0c6a5b4b3f8a4c1e8a4a1",
+        "description": "1 Pizza Mediana (sabor a elección)"
+      },
+      {
+        "productId": "63a0c7e2b4b3f8a4c1e8a4c1",
+        "description": "2 Gaseosas Personales"
+      },
+      {
+        "productId": "63a0c8a9b4b3f8a4c1e8a4d2",
+        "description": "1 Brownie con helado"
+      }
+    ],
+    "available": true
+  }
